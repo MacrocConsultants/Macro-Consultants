@@ -15,7 +15,7 @@ export default function Home() {
             className="w-12 h-12 rounded-xl bg-macrocGreen flex items-center justify-center shadow-lg shadow-macrocGreen/30"
           >
             <img
-  src="/macroc-logo.png"
+  src="/macroc-logo-.png"
   alt="MACROC Financial Consultants"
   className="w-12 h-12 object-contain"
 />
@@ -296,4 +296,5 @@ function ServiceCard({ title, desc }) {
     </div>
   );
 }
+
 
